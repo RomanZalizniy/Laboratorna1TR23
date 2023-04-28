@@ -1,8 +1,7 @@
 # laboratorna1
 Лабораторна робота 1, JAVA ООП
 
-Zavd1: 
-https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd1.java
+Zavd1: https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd1.java
 line 4-13: Ми створюємо 10 цілих числових змінних з типом даних int, та:
 	   - додаємо їх між собою
 	   - віднімаємо їх між собою
@@ -21,12 +20,12 @@ line 25: виводимо змінну prod в консоль
 line 28: Створюємо змінну div, тип даних int, та ділимо змінні чисел між собою(num1 / num2 / ...)
 line 29 виводимо змінну div в консоль
 
-Zavd2:
+Zavd2: https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd2.java
 line 3-12: Ми створили 10 змінних з символами та словами з типом даних String
 line 14: зробили змінну sentence з типом String та додали туди всі слова по порядку
 line 15: виводимо змінну sentence в консоль
 
-Car/Zavd4:
+Car/Zavd4: https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd4.java
 Щоб запустити Zavd4 для нього потрібен окремий файл з класом Car
 В класі Car, ми створили 6 полів, потім цим полям надали різні типи даних(int, String, boolean)
 
@@ -34,7 +33,7 @@ Zavd4: ми створили 10 об'єктів класу Car
 line 14: створили змінну engineCapacitySum з типом дробових даних double в якій додали атрибут об'єму всіх автомобілей та вивели engineCapacitySum в консоль
 line 19: створили змінну horsepowerSum з типом int та додали атрибут кінських сил об'єктів та вивели horsepowerSum в консоль
 
-Zavd5:
+Zavd5: https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd5.java
 Ми перевернули число 412 щоб вийшло 214
 line 3: ми створили змінну num з типом int та записали туди число 412
 line 5: створили нову змінну int revNum = 0, де буде наше перевернуте число
