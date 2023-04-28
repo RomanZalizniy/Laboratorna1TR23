@@ -2,6 +2,7 @@
 Лабораторна робота 1, JAVA ООП
 
 Zavd1: 
+https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd1.java
 line 4-13: Ми створюємо 10 цілих числових змінних з типом даних int, та:
 	   - додаємо їх між собою
 	   - віднімаємо їх між собою
