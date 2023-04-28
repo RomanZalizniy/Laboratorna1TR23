@@ -1,5 +1,6 @@
 # laboratorna1
 Лабораторна робота 1, JAVA ООП
+https://github.com/RomanZalizniy/Laboratorna1TR23
 
 Zavd1: https://github.com/RomanZalizniy/Laboratorna1TR23/blob/main/Zavd1.java
 line 4-13: Ми створюємо 10 цілих числових змінних з типом даних int, та:
